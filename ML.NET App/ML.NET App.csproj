@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ML.NET_App</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.6.0" />
+  </ItemGroup>
+  <ItemGroup Label="SentimentAnalysis">
+    <None Include="SentimentAnalysis.consumption.cs">
+      <DependentUpon>SentimentAnalysis.mbconfig</DependentUpon>
+    </None>
+    <None Include="SentimentAnalysis.training.cs">
+      <DependentUpon>SentimentAnalysis.mbconfig</DependentUpon>
+    </None>
+    <None Include="SentimentAnalysis.zip">
+      <DependentUpon>SentimentAnalysis.mbconfig</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

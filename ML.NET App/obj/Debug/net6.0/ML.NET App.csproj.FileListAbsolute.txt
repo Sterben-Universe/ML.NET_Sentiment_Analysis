@@ -1,0 +1,47 @@
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\ML.NET App.staticwebassets.runtime.json
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\SentimentAnalysis.zip
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\ML.NET App.exe
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\ML.NET App.deps.json
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\ML.NET App.runtimeconfig.json
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\ML.NET App.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\ref\ML.NET App.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\ML.NET App.pdb
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.Core.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.Data.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\scopedcss\bundle\ML.NET App.styles.css
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\scopedcss\projectbundle\ML.NET App.bundle.scp.css
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.csproj.CopyComplete
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ref\ML.NET App.dll
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.pdb
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\obj\Debug\net6.0\ML.NET App.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ML.NET App\ML.NET App\bin\Debug\net6.0\libman.json
